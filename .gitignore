@@ -1,0 +1,21 @@
+# Ambiente virtual do Python (nunca versionar no Git)
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Ambientes e segredos
+.env
+
